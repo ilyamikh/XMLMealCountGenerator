@@ -1,0 +1,71 @@
+﻿body {
+    text-align: center;
+}
+
+h3 {
+    background-color: pink;    
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#page {
+    background-color: grey;
+    position: absolute;
+    width: 11in;
+    height: 8in;
+
+}
+
+#snpTitle {
+    position: relative;
+    background-color: lightblue;
+    float: left;
+    width: 25%;
+}
+
+#cacfpTitle {
+    position: relative;
+    background-color: lightblue;
+    float: left;
+    width: 25%
+}
+
+#info {
+    position: relative;
+    float: left;
+    width: 33%;
+    margin-top: 25px;
+    background-color: teal;
+}
+
+table {
+    font-size: 13px;
+    empty-cells: show;
+    border-collapse: collapse;
+}
+
+th {
+    border: medium solid;
+}
+
+#names {
+    width: 250px;
+}
+
+td {
+    border: thin solid;
+    white-space: nowrap;
+}
+
+.roster {
+    position: relative;
+    background-color: aqua;
+    float: left;
+    width: 85%;
+}
+
+#count {
+    position: relative;
+    background-color: pink;
+    float: right;
+}
